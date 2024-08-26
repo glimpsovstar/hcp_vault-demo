@@ -1,0 +1,3 @@
+[submodule "pki"]
+	path = pki
+	url = https://github.com/glimpsovstar/hcp_vault-demo/pki.git
